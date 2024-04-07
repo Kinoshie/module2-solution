@@ -7,13 +7,7 @@ h2, h3, h4{
   font-size:30px;
 }
 
- p{
-  border: 1px solid black;
-   
-
-   
-   
-  }
+ p
 /********** Large Device only **********/
 
 @media (min-width: 1200){ .col-lg-1, .col-lg2, .col-lg3, .col-lg4, .col-lg5, .col-lg6, .col-lg7, .col-lg8, .col-lg9, .col-lg10, .col-lg11, .col-lg12,{ float: left; border: 1px solid green;}
