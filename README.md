@@ -22,8 +22,7 @@
 <article class="item">
 <p class="beef">Tastey Beef</p>
                 </article>
-
-            </section>
+</section>
   
 <section>
 <h4>Shrimp</h4>
