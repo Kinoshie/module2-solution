@@ -6,3 +6,8 @@ h1 {
 h2 {
   font-size:30px;
 }
+
+.item p{
+  font-size: 18px;
+  font-family: italic;
+}
