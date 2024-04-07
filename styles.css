@@ -10,13 +10,9 @@ h2, h3, h4{
  p{
   border: 1px solid black;
    
-     width: 90px;
-   height: 150px;
-   margin-right: auto
-   margin-left: auto;
+
    font-family: Helvetica;
    
-   font-size: 18px;
   }
 /********** Large Device only **********/
 
