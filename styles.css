@@ -18,6 +18,10 @@ h2, h3, h4{
    color: black;
    font-size: 18px;
   }
+/********** Large Device only **********/
+
+@media (min-width: 1200){
+  
 
 .row{
   width: 100%;
